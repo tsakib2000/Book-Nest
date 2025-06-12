@@ -1,4 +1,5 @@
 
+import Hero from "../Component/Hero";
 import useAuth from "../Hooks/useAuth";
 
 
@@ -7,120 +8,11 @@ const Home = () => {
   const {user}=useAuth();
   console.log(user);
     return (
-      <div className="border border-red-700" >
+<div>
 
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-<h1>skghsakhgkljh</h1>
-    </div>
+  <Hero/>
+  
+</div>
     );
 };
 
