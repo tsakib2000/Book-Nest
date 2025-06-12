@@ -9,10 +9,9 @@ const Hero = () => {
       <div className="hero-content flex-col lg:flex-row-reverse">
         <Lottie animationData={hero} className="object-contain h-72 sm:h-80 lg:h-96 xl:h-112 2xl:h-128" />
         <div>
-          <h1 className="text-5xl font-bold">Box Office News!</h1>
+          <h1 className="text-5xl font-bold"> Welcome to BookNest – Your Trusted Online Bookstore</h1>
           <p className="py-6">
-            Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-            quasi. In deleniti eaque aut repudiandae et a id nisi.
+            Discover a world of knowledge and imagination right from your screen. BookNest brings readers from all 64 districts of Bangladesh together on one easy-to-use platform
           </p>
           <button className="btn btn-primary">Get Started</button>
         </div>
